@@ -1,4 +1,4 @@
-Esse documento foi o avanço de minha aprendizagem em JavaScript
+Esse documento são testes de funcionalidades em JavaScript
 
 
 nota sobre a aula de Node: instale o lodash com o comando "npm i lodash", 
